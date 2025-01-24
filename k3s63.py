@@ -10,7 +10,7 @@ print(f"""\x1b[38;5;117m 1\x1b[38;5;231m - Gmail Specific year Meta Enabled Hunt
 \x1b[38;5;117m 3\x1b[38;5;231m - Gmail Specific Year + Meta Hunter | \x1b[1;32m Active ✅
 \x1b[38;5;117m 4\x1b[38;5;231m - AOL Hunter | \x1b[1;32m Active ✅
 \x1b[38;5;117m 5\x1b[38;5;231m - AOL + Gmail Meta Hunter | \x1b[1;32m Active ✅
-\x1b[38;5;117m 6\x1b[38;5;231m - Pass reset Enter Email or Username Tool | \x1b[1;32m Active ✅
+\x1b[38;5;117m 6\x1b[38;5;231m - Pass reset Tool | \x1b[1;32m Active ✅
 """)
 
 def main_menu():
