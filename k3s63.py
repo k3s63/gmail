@@ -4,6 +4,8 @@ from cfonts import render
 K3S63 = render('{K3S63}', colors=['white', 'cyan'], align='center')
 print(K3S63)
 print("▩" * 60)
+print('This file supports operating systems like Windows and Linux (Termux) and some phone. \nIf it does not run on your phone, let me know, and I will provide you with another file.')
+print("▩" * 60)
 
 print(f"""\x1b[38;5;117m 1\x1b[38;5;231m - Gmail Specific year Meta Enabled Hunter | \x1b[1;32m Active ✅
 \x1b[38;5;117m 2\x1b[38;5;231m - Gmail Random Meta Hunter | \x1b[1;32m Active ✅
